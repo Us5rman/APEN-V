@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shade_access_desc">Lets the ReShade overlay pass your touches through to the game. It does not read your screen.</string>
+</resources>
